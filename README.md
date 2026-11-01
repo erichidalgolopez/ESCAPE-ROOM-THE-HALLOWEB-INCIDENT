@@ -21,3 +21,10 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 - Creació del dashboard.
 - Resolució dels conflictes.
 - Integració final.
+
+## Procediment
+### Fase 1 - Eric Hidalgo 
+- He creat el repositori a GitHub.
+- He creat les carpetes del projecte.
+- He preparat els fitxers.
+- He definit les bases per el projecte.
