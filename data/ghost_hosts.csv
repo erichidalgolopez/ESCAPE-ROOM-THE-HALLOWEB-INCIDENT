@@ -1,0 +1,4 @@
+Hostname,IP,Estat
+ghost-01,192.0.2.10,infectat
+ghost-02,192.0.2.20,sospitós
+ghost-03,192.0.2.30,net
