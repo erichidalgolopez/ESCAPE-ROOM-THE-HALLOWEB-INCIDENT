@@ -21,3 +21,10 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 - Creació del dashboard.
 - Resolució dels conflictes.
 - Integració final.
+
+### Fase 1 - Santiago Moreno
+
+- He creat la branca defense-script.
+- He revisat l'estructura del CSV.
+- He preparat l'estructura inicial de l'script.
+- He coordinat el contracte de dades amb l'Agent 1.
