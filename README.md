@@ -28,3 +28,10 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 - He creat les carpetes del projecte.
 - He preparat els fitxers.
 - He definit les bases per el projecte.
+
+### Investigació de feature/nightmare-code
+
+- S'ha localitzat la branca secreta.
+- S'han inspeccionat els fitxers.
+- S'ha revisat el codi sense executar-lo.
+- S'han documentat les modificacions sospitoses.
