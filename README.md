@@ -50,3 +50,8 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 - S'ha actualitzat l'script de detecció.
 - S'han descartat els ports no crítics.
 - S'ha creat hotfix/protocol-update.
+
+## Resultat de la investigació
+
+Eric Hidalgo: base de dades recuperada i protocol documentat.
+
