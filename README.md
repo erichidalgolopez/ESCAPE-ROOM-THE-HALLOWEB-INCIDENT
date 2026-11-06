@@ -51,3 +51,6 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 - S'han descartat els ports no crítics.
 - S'ha creat hotfix/protocol-update.
 
+## Resultat de la investigació
+
+Agent 2: script de detecció creat i verificat.
