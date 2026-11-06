@@ -29,6 +29,13 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 - He preparat els fitxers.
 - He definit les bases per el projecte.
 
+### Fase 1 - Santiago Moreno
+
+- He creat la branca defense-script.
+- He revisat l'estructura del CSV.
+- He preparat l'estructura inicial de l'script.
+- He coordinat el contracte de dades amb l'Agent 1.
+
 ### Investigació de feature/nightmare-code
 
 - S'ha localitzat la branca secreta.
@@ -43,7 +50,3 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 - S'ha actualitzat l'script de detecció.
 - S'han descartat els ports no crítics.
 - S'ha creat hotfix/protocol-update.
-
-## Resultat de la investigació
-
-Agent 2: script de detecció creat i verificat.
