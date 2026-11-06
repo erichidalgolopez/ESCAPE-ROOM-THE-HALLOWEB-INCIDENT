@@ -30,6 +30,7 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 - He definit les bases per el projecte.
 
 ### Fase 1 - Santiago Moreno
+
 - He creat la branca defense-script.
 - He revisat l'estructura del CSV.
 - He preparat l'estructura inicial de l'script.
@@ -49,3 +50,10 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 - S'ha actualitzat l'script de detecció.
 - S'han descartat els ports no crítics.
 - S'ha creat hotfix/protocol-update.
+
+## Resultat de la investigació
+
+Santiago Moreno: script de detecció creat i verificat.
+
+Eric Hidalgo: base de dades recuperada i protocol documentat.
+
