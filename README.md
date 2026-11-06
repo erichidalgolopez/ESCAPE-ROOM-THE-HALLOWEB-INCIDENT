@@ -53,4 +53,7 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 
 ## Resultat de la investigació
 
-Agent 2: script de detecció creat i verificat.
+Santiago Moreno: script de detecció creat i verificat.
+
+Eric Hidalgo: base de dades recuperada i protocol documentat.
+
