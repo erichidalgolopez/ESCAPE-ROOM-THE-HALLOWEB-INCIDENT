@@ -53,5 +53,7 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 
 ## Resultat de la investigació
 
+Santiago Moreno: script de detecció creat i verificat.
+
 Eric Hidalgo: base de dades recuperada i protocol documentat.
 
