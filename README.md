@@ -54,3 +54,4 @@ Projecte de recuperació d'un servidor afectat per un atac informàtic.
 ## Resultat de la investigació
 
 Eric Hidalgo: base de dades recuperada i protocol documentat.
+
